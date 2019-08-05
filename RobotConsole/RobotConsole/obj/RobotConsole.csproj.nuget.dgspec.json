@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotConsole\\RobotConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\RobotBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\RobotBusiness.csproj",
+        "projectName": "RobotBusiness",
+        "projectPath": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\RobotBusiness.csproj",
+        "packagesPath": "C:\\Users\\mohamed.ameen\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohamed.ameen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://acafupapp10000406str.blob.core.windows.net/nugetfeed/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotConsole\\RobotConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotConsole\\RobotConsole.csproj",
+        "projectName": "RobotConsole",
+        "projectPath": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotConsole\\RobotConsole.csproj",
+        "packagesPath": "C:\\Users\\mohamed.ameen\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mohamed.ameen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://acafupapp10000406str.blob.core.windows.net/nugetfeed/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\RobotBusiness.csproj": {
+                "projectPath": "C:\\Development\\Toy-Robot\\Ameen-RobotProject\\RobotConsole\\RobotBusiness\\RobotBusiness.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

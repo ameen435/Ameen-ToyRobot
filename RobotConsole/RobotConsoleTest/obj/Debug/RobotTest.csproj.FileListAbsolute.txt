@@ -1,0 +1,16 @@
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\RobotConsoleTest.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\RobotConsoleTest.pdb
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\RobotBusiness.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\RobotBusiness.pdb
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\obj\Debug\RobotTest.csprojAssemblyReference.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\obj\Debug\RobotTest.csproj.CoreCompileInputs.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\obj\Debug\RobotTest.csproj.CopyComplete
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\obj\Debug\RobotConsoleTest.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotConsoleTest\obj\Debug\RobotConsoleTest.pdb

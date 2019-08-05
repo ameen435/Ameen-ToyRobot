@@ -1,0 +1,9 @@
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\bin\Debug\netstandard2.0\RobotBusiness.deps.json
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\bin\Debug\netstandard2.0\RobotBusiness.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\bin\Debug\netstandard2.0\RobotBusiness.pdb
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.csprojAssemblyReference.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.csproj.CoreCompileInputs.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.AssemblyInfoInputs.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.AssemblyInfo.cs
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotBusiness\obj\Debug\netstandard2.0\RobotBusiness.pdb

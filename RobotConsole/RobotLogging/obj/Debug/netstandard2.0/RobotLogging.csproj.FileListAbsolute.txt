@@ -1,0 +1,10 @@
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\bin\Debug\netstandard2.0\NLog.config
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\bin\Debug\netstandard2.0\RobotLogging.deps.json
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\bin\Debug\netstandard2.0\RobotLogging.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\bin\Debug\netstandard2.0\RobotLogging.pdb
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.csprojAssemblyReference.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.csproj.CoreCompileInputs.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.AssemblyInfoInputs.cache
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.AssemblyInfo.cs
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.dll
+C:\Development\Toy-Robot\Ameen-RobotProject\RobotConsole\RobotLogging\obj\Debug\netstandard2.0\RobotLogging.pdb
