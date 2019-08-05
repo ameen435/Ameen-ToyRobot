@@ -1,5 +1,6 @@
 # Ameen-ToyRobot
- Building Robot which moves on table and reports its direction based on business logic
+
+ Building Robot which moves on table and reports its direction based on business logic.
  
  i have used .Net framework 4.7 to build this console app, while developing i have made few assumptions and designs( which might not be perfect)
  
@@ -8,6 +9,7 @@
  - close to 10 tests to prove the scenarios works
  - seperating the concerns in code 
  - Using common code in common model 
+ - Handling closing of application gracefully is not handled in this version 
 
 The tests can be run to see the results also the values can be changed to test other secanrios using test cases.
 
